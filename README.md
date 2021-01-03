@@ -8,5 +8,5 @@
   
 
 ### [Restaurant Reviews Analysis](https://github.com/pyreyes/restaurant_reviews)
- <a href="https://github.com/pyreyes/restaurant_reviews"><img src="https://github.com/pyreyes/restaurant_reviews/blob/main/Zomato-Social-1.jpg" alt="Restaurant Reviews Analysis" title="Topic Modeling" width="400" height="250" /></a>
+ <a href="https://github.com/pyreyes/restaurant_reviews"><img src="https://github.com/pyreyes/restaurant_reviews/blob/main/Zomato-Social-1.jpg" alt="Topic Model" title="Restaurant Reviews Analysis" width="400" height="250" /></a>
  
